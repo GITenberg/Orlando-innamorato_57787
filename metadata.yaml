@@ -1,0 +1,27 @@
+_repo: Orlando-innamorato_57787
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Boiardo, Matteo Maria
+    aliases:
+    - Boyardo, Matteo Maria
+    - Bojardo, Matteo Maria, conte di Scandiano
+    - Boiardo, Mattheo Maria
+    birthdate: 1440
+    deathdate: 1494
+    gutenberg_agent_id: '6265'
+    url: http://www.gutenberg.org/2009/agents/6265
+    wikipedia: http://en.wikipedia.org/wiki/Matteo_Maria_Boiardo
+description: ''
+gutenberg_issued: '2018-08-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57787'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Orlando innamorato
+url: http://www.gutenberg.org/ebooks/57787
